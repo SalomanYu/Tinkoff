@@ -1,0 +1,674 @@
+[
+  {
+    "Группа": "Backend",
+    "Все вакансии": [
+      {
+        "Вакансия": "Java-разработчик в Invest Global",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/java-razrabotchik-v-invest-global/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик .NET в Тинькофф Бизнес",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/dotnet-developer-business/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в ML",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Тимлид Golang в команду Комментариев",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-teamlead/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Java-разработчик ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/java/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в Invest Global",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-invest-global/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в Tinkoff Asia",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Kotlin-разработчик ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/kotlin-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "ETL-разработчик (Streaming)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/etl-developer-streaming/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик .NET в Биометрию",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/dotnet-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Scala-разработчик",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/scala/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Senior-разработчик С++ в Поиск",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/senior-cpp-developer-search/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик C++ в DevPlatform",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/cpp-developer-devplatform/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в Хранилище данных",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-dwh/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик PL/SQL",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/oracle-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в DevPlatform",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-devplatform/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в Инвестиции",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-invest/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Java developer (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/java-developer-tinkoff-aziya/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Business Data Engineer",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/business-data-engineer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик С++ в Confidential ML",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/cpp-developer-confml/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик Haskell",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/haskell-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "C++ разработчик в Маркетинговую платформу",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/cpp-developer-rtb/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "ML-инженер",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/ml/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Разработчик Node.js",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/middle-nodejs-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в команду Долями",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-bpnl/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик ETL",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/etl-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик Python",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/python/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Golang-разработчик в Образовательные платформы",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/go-developer-edu/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик C++ в Поиск",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/cpp-developer-search/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Data Engineer (Asia) ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/data-engineer-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Ведущий Scala-разработчик",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/scala-senior/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик PL\\SQL (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/plsql-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Data-инженер",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/back-end-razrabotka/data-engineer-dataplatform/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Frontend",
+    "Все вакансии": [
+      {
+        "Вакансия": "Frontend-разработчик (Angular)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/front-end-razrabotka/frontend-developer-angular/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Frontend-разработчик (React)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/front-end-razrabotka/frontend-developer-react/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Frontend-разработчик (Angular)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/front-end-razrabotka/senior-frontend-developer-angular/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Senior Frontend Developer - Helicopter",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/front-end-razrabotka/senior-frontend-developer-helicopter/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Frontend-разработчик (React)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/front-end-razrabotka/senior-frontend-developer-react/",
+        "Вес": 1
+      }
+    ]
+  },
+  {
+    "Группа": "Fullstack",
+    "Все вакансии": [
+      {
+        "Вакансия": " Full-stack developer Angular/NodeJS",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/full-stack-razrabotka/full-stack-developer-angular-nodejs/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик Full-Stack .NET",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/full-stack-razrabotka/full-stack-dotnet-developer-twork/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Fullstack разработчик ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/full-stack-razrabotka/fullstack-developer/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Разработчик .NET в HR-платформу Candy",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/full-stack-razrabotka/dotnet-developer-candy/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Аналитика ",
+    "Все вакансии": [
+      {
+        "Вакансия": "Риск-аналитик",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/risk-analitik-compliance/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Data Quality Lead",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/data-quality-lead/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Аналитик на compliance-риски",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/analitik-na-compliance-risk/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Data Steward",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/data-steward/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Разработчик отчетности в Tableau",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/razrabotchik-otchetnosti-v-tableau/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Бизнес-аналитик в отчетность DWH",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/analyst-dwh/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Project/Product Manager в команду финансового ассистента Олег",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/projectproduct-manager-v-komandu-finansovogo-assistenta-oleg/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Аналитик качества данных",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/analitik-kachestva-dannyh-dwh/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Аналитик BI (финансы)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/analitika/analitik-bi-finansy/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Архитектура",
+    "Все вакансии": [
+      {
+        "Вакансия": "Архитектор ETL",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/arhitektura/arhitektor-etl/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Архитектор BI",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/arhitektura/architect-bi-senior/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Архитектор streaming ETL",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/arhitektura/architect-dwh-senior/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Дизайн",
+    "Все вакансии": [
+      {
+        "Вакансия": "Дизайнер продукта",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/dizajn/dizajner-produkta/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Дизайнер мобильных приложений",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/dizajn/dizajner-mobilnyh-prilozhenij/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Инфраструктура/Администрирование",
+    "Все вакансии": [
+      {
+        "Вакансия": "Site Reliability Engineer (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/sre-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "DevOps",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/securitydevops/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Инженер OpenStack",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/openstack/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный инженер DWH",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/sre-dwh/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": " SRE (Invest Global)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/sre-invest-global/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Site Reliability Engineer ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/infrastruktura-administrirovanie/sre/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Информационная безопасность",
+    "Все вакансии": [
+      {
+        "Вакансия": "Security Partner",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/security-partner/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Security operations center engineer",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/security-operations-center-engineer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Application Security Expert (Mobile Apps)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/mobile-appsec/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Application Security Expert ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/application-security-expert/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Специалист по карточному антифроду",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/specialist-po-kartochnomu-antifrodu/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "DevSecOps специалист",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/devsecops-specialist/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Application Security Expert Tinkoff Asia",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/informacionnaya-bezopasnost/application-security-expert-asia/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Мобильная разработка ",
+    "Все вакансии": [
+      {
+        "Вакансия": "Старший разработчик Android",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/senior-android-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Mobile SRE",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/sre-mobile/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "IOS разработчик (Тинькофф Инвестиции)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/ios-razrabotchik-tinkoff-investicii/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Старший разработчик iOS",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/senior-ios-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Android разработчик (Тинькофф Инвестиции)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/android-razrabotchik-tinkoff-investicii/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик Android (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/android-developer-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик Android ",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/android-developer/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик iOS",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/ios-dev/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Разработчик iOS (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/mobilnaya-razrabotka/ios-developer-asia/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Риски",
+    "Все вакансии": [
+      {
+        "Вакансия": "Риск-аналитик",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/riski/risk-analitik/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Аналитик (предотвращение мошенничества)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/riski/analitik-predotvrashenie-moshennich/",
+        "Вес": 0
+      }
+    ]
+  },
+  {
+    "Группа": "Системная аналитика",
+    "Все вакансии": [
+      {
+        "Вакансия": "Системный аналитик в Страхование",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/system-analyst-insurance/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик в Инвестиции",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/system-analyst-invest/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик в Процессинговый центр",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/system-analyst-processing/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик (Международные платежные системы)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/sistemnyj-analitik-mps/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/sistemnyj-analitik-tinkoff-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик в TOP",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/sistemnyj-analitik-top/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик в в Управление платежных технологий",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/system-analyst-payment-technologies/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик DWH",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/dwh-analyst/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Старший системный аналитик (Invest Global)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/starshij-sistemnyj-analitik-invest-global/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Системный аналитик",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/system-analytics/sistemnyj-analitik-union/",
+        "Вес": 1
+      }
+    ]
+  },
+  {
+    "Группа": "Тестирование",
+    "Все вакансии": [
+      {
+        "Вакансия": "Инженер по автоматизации (JavaScript)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-auto-js/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по автоматизации (Python)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qaauto-python/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по тестированию (Tinkoff Asia)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-asia/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по тестированию (backend)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-backend/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по тестированию",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa/",
+        "Вес": 1
+      },
+      {
+        "Вакансия": "Инженер по автоматизации (Android)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-auto-android/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по тестированию (web)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-web/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по автоматизации (Java)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa_auto_java/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по автоматизации (iOS)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-auto-ios/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Старший инженер по тестированию в Invest Global (Mobile)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/senior-qa-mobile-invest/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Старший инженер по тестированию в Invest Global (Backend)",
+        "Уровень": 3,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/senior-qa-backend-invest/",
+        "Вес": 0
+      },
+      {
+        "Вакансия": "Инженер по тестированию (mobile)",
+        "Уровень": 2,
+        "Ссылка": "https://www.tinkoff.ru//career/it/testirovanie/qa-mobile-/",
+        "Вес": 0
+      }
+    ]
+  }
+]
